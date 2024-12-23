@@ -71,7 +71,7 @@ Although your friend has an excellent understanding of property prices in her ow
 2. Click on the New button, select Web Service.
 2. At Source Code, select Git Providor.
 3. Select your repository name. Click Connect.
-4. Enter a a unique name for your web service.
+4. Enter a unique name for your web service.
 5. Select the Python3 language.
 6. Select the main branch.
 7. Select the Frankfurt (EU Central) Region.
