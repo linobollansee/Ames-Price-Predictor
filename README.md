@@ -49,7 +49,17 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ## ML Business Case
 
-* In the previous bullet, you potentially visualised an ML task to answer a business requirement. You should frame the business case using the method we covered in the course.
+* We want a ML model to predict
+
+* Our ideal outcome is to
+
+* The model success metrics are
+
+* The model output is
+
+* Heuristics
+
+* The training data
 
 ## Dashboard Design
 
