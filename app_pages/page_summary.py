@@ -6,7 +6,7 @@ def page_summary_body():
 
     # text based on README file - "Dataset Content" section
     st.info(
-        f"**Project Terms & Jargon**\n"
+        f"**Project Terms & Jargon**\n")
 
     # Link to README file, so the users can have access to full project documentation
     st.write(
