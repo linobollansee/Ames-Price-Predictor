@@ -117,17 +117,14 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ### Content
 
-* The text for the Home page was taken from Wikipedia Article A
-* Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+* The following Code Institute Template was used to start this project: [https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues](https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues)
 
 ### Media
 
 * The photos used on the home and sign-up page are from This Open Source site
 * The images used for the gallery page were taken from this other open-source site
 
-## Acknowledgements (optional)
+## Acknowledgements
 
-
-* In case you would like to thank the people that provided support through this project.
+* Amazon for delivering to my doorstep many ready-made meals, allowing me to dedicate more time on project research and coding solutions.
 
