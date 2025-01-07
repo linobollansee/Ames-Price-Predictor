@@ -97,8 +97,10 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ## Credits
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-* You can break the credits section up into Content and Media, depending on what you have included in your project.
+* Code Institute Community Lead Kenan Wright for putting me in touch with the tutors most suited for this project: Niel McEwen and Roman Rakic.
+* Code Institute Tutor Niel McEwen for providing documentation to deploy a Streamlit application to the Render cloud platform.
+* Code Institute Student Filip van Elslande for discussing some of the capabilities of the python libraries used in this project.
+* Code Institute Mentor Mo Shami for project support.
 
 ### Content
 
