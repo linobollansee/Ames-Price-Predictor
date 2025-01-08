@@ -117,7 +117,11 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ### Content
 
-* The following Code Institute Template was used to start this project: [https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues](https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues)
+* The Code Institute Milestone Project Heritage Housing Issues Template available at [https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues](https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues) was used to start this project. 
+ 
+* The Code Institute churnometer repository at [https://github.com/Code-Institute-Solutions/churnometer](https://github.com/Code-Institute-Solutions/churnometer) was used for learning how to do the Jupyter notebooks and Streamlit pages in this project.
+
+* The Code Institute Predictive Analytics course taught me all the skills required to complete this project.
 
 ### Media
 
