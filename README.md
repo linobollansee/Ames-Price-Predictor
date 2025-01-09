@@ -114,6 +114,7 @@ Although your friend has an excellent understanding of property prices in her ow
 * Code Institute Tutor Niel McEwen for providing documentation to deploy a Streamlit application to the Render cloud platform.
 * Code Institute Student Filip van Elslande for discussing some of the capabilities of the python libraries used in this project.
 * Code Institute Mentor Mo Shami for project support.
+* ChatGPT for quickly refreshing my memory about Python syntax.
 
 ### Content
 
