@@ -111,19 +111,33 @@ Although your friend has an excellent understanding of property prices in her ow
 ## Main Data Analysis and Machine Learning Libraries
 
 * numpy==1.26.1
+  * Provides support for large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
 * pandas==2.1.1
+  * A powerful data manipulation and analysis library, providing data structures like DataFrames for handling structured data.
 * matplotlib==3.8.0
+  * A plotting library used for creating static, animated, and interactive visualizations in Python.
 * seaborn==0.13.2
+  * Built on top of matplotlib, seaborn makes it easier to generate more attractive and informative statistical plots.
 * ydata-profiling==4.12.0
+  * Generates detailed data profiling reports, offering insights into the structure and statistics of datasets for exploratory data analysis.
 * plotly==5.17.0
-* ppscore==1.1.0
+  * An interactive graphing library for creating visualizations in the form of charts, maps, and dashboards with support for web-based interactivity.
+* ppscore==1.1.0 
+  * A library for calculating feature importance scores in machine learning models, especially useful for feature selection.
 * streamlit==1.40.2
+  * An open-source app framework to quickly build and deploy interactive data science and machine learning web applications.
 * feature-engine==1.6.1
+  * A library for feature engineering in machine learning, providing tools for preprocessing, feature transformation, and handling missing data.
 * imbalanced-learn==0.11.0
+  * Provides algorithms to address class imbalance in datasets for classification tasks, including over-sampling and under-sampling techniques.
 * scikit-learn==1.3.1
+  * A robust library for machine learning that provides tools for classification, regression, clustering, model selection, and data preprocessing.
 * xgboost==1.7.6
+  * A highly efficient and scalable implementation of gradient boosting for classification and regression tasks, known for its high performance in competitions.
 * yellowbrick==1.5
+  * A visual analysis tool that provides diagnostic visualizations to aid in model evaluation, feature analysis, and hyperparameter tuning.
 * Pillow==10.0.1
+  * A Python Imaging Library (PIL) fork, which adds image processing capabilities to Python, such as opening, editing, and saving images in various formats.
 
 ## Credits
 
