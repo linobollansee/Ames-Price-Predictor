@@ -1,3 +1,7 @@
+# Ames-Price-Predictor
+
+Welcome to the Ames-Price-Predictor repository! This project is designed to help a friend maximize the sale price of inherited properties in Ames, Iowa, by leveraging data analysis and predictive modeling.
+
 ## Table of Contents
 
 - [Dataset Content](#dataset-content)
