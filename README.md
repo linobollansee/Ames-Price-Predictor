@@ -161,8 +161,7 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ### Media
 
-* The photos used on the home and sign-up page are from This Open Source site
-* The images used for the gallery page were taken from this other open-source site
+* The chart-increasing icon used on the streamlit pages was found on [https://emojipedia.org/chart-increasing](https://emojipedia.org/chart-increasing)
 
 ## Acknowledgements
 
