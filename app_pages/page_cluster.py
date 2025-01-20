@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
-from src.data_management import load_telco_data, load_pkl_file
+from src.data_management import load_house_data, load_pkl_file
 
 
 def page_cluster_body():
@@ -23,7 +23,7 @@ def page_cluster_body():
                         )
 
     # dataframe for cluster_distribution_per_variable()
-    df_churn_vs_clusters = load_telco_data().filter(['Churn'], axis=1)
+    df_churn_vs_clusters = load_house_data().filter(['Churn'], axis=1)
     df_churn_vs_clusters['Clusters'] = cluster_pipe['model'].labels_
 
     st.write("### ML Pipeline: Cluster Analysis")

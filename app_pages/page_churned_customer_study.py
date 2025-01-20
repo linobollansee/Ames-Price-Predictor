@@ -2,7 +2,7 @@ import plotly.express as px
 import numpy as np
 from feature_engine.discretisation import ArbitraryDiscretiser
 import streamlit as st
-from src.data_management import load_telco_data
+from src.data_management import load_house_data
 
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -12,7 +12,7 @@ sns.set_style("whitegrid")
 def page_churned_customer_study_body():
 
     # load data
-    df = load_telco_data()
+    df = load_house_data()
 
     # hard copied from churned customer study notebook
     vars_to_study = ['Contract', 'InternetService',

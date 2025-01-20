@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from src.data_management import load_telco_data, load_pkl_file
+from src.data_management import load_house_data, load_pkl_file
 from src.machine_learning.predictive_analysis_ui import (
     predict_churn,
     predict_tenure,
@@ -86,7 +86,7 @@ def check_variables_for_UI(tenure_features, churn_features, cluster_features):
 def DrawInputsWidgets():
 
     # load dataset
-    df = load_telco_data()
+    df = load_house_data()
     percentageMin, percentageMax = 0.4, 2.0
 
 # we create input widgets only for 6 features
