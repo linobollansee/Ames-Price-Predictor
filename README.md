@@ -95,7 +95,7 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ### Render
 
-* The App live link is: <https://milestone-project-heritage-housing-issues.onrender.com>
+* The App live link is: <https://ames-price-predictor.onrender.com/>
 * The project was deployed to Render using the following steps.
 
 1. Log in to Render.com using Github.
