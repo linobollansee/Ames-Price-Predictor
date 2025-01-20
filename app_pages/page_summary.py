@@ -47,7 +47,7 @@ def page_summary_body():
         f"[Project README file](https://github.com/linobollansee/Ames-Price-Predictor/blob/main/README.md).")
     st.success(
         f"The project has 2 business requirements:\n"
-        f" 1 - The client is interested in discovering how the house "
+        f"* 1 - The client is interested in discovering how the house "
         f"attributes correlate with the sale price. Therefore, the client "
         f"expects data visualisations of the correlated variables against the "
         f"sale price to show that.\n"
