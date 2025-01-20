@@ -10,7 +10,7 @@ from app_pages.page_predict_churn import page_predict_churn_body
 from app_pages.page_predict_tenure import page_predict_tenure_body
 from app_pages.page_cluster import page_cluster_body
 
-app = MultiPage(app_name= "Churnometer") # Create an instance of the app 
+app = MultiPage(app_name= "Ames-Price-Predictor") # Create an instance of the app 
 
 # Add your app pages here using .add_page()
 app.add_page("Quick Project Summary", page_summary_body)
