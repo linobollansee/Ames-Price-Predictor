@@ -18,14 +18,14 @@ def page_housing_prices_study_body():
     vars_to_study = ['Contract', 'InternetService',
                      'OnlineSecurity', 'TechSupport', 'tenure']
 
-    st.write("### Churned Customer Study")
+    st.write("### Housing Prices Study")
     st.info(
-        f"* The client is interested in understanding the patterns from the customer base "
-        f"so that the client can learn the most relevant variables correlated "
-        f"to a churned customer.")
+        f"* The client is interested in understanding the patterns from the "
+        f"housing prices dataset so that the client can learn the most "
+        f"relevant variables correlated to the sale price.")
 
     # inspect data
-    if st.checkbox("Inspect Customer Base"):
+    if st.checkbox("Inspect Housing Prices Dataset"):
         st.write(
             f"* The dataset has {df.shape[0]} rows and {df.shape[1]} columns, "
             f"find below the first 10 rows.")
@@ -37,7 +37,7 @@ def page_housing_prices_study_body():
     # Correlation Study Summary
     st.write(
         f"* A correlation study was conducted in the notebook to better understand how "
-        f"the variables are correlated to Churn levels. \n"
+        f"the variables are correlated to sale price. \n"
         f"The most correlated variable are: **{vars_to_study}**"
     )
 
