@@ -9,7 +9,7 @@ import seaborn as sns
 sns.set_style("whitegrid")
 
 
-def page_housing_prices_study_body():
+def page_study_body():
 
     # load data
     df = load_house_data()
