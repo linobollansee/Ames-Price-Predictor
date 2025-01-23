@@ -5,7 +5,7 @@ from src.data_management import load_house_data, load_pkl_file
 from src.machine_learning.evaluate_clf import clf_performance
 
 
-def page_predict_tenure_body():
+def page_predictive_model_body():
 
     # load tenure pipeline files
     version = 'v1'

@@ -17,6 +17,6 @@ app.add_page("Quick Project Summary", page_summary_body)
 app.add_page("Housing Prices Study", page_housing_prices_study_body)
 app.add_page("Predicted House Value", page_predicted_house_value_body)
 app.add_page("Project Hypothesis and Validation", page_project_hypothesis_body)
-app.add_page("ML: Prospect Tenure", page_predict_tenure_body)
+app.add_page("Predictive Model", page_predictive_model_body)
 
 app.run() # Run the  app
