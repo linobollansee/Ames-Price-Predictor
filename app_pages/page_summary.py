@@ -5,6 +5,7 @@ def page_summary_body():
     """
     This function generates the content for a summary page
     """
+    st.write("### Project Summary")
     st.info(
         f"Our client has acquired four residential properties in Ames, Iowa, "
         f"through inheritance and engaged our services to maximize their "
