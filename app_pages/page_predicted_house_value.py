@@ -7,7 +7,7 @@ from src.machine_learning.predictive_analysis_ui import (
     predict_cluster)
 
 
-def page_prospect_body():
+def page_predicted_house_value_body():
 
     # load predict churn files
     version = 'v1'

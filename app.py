@@ -15,7 +15,7 @@ app = MultiPage(app_name= "Ames-Price-Predictor") # Create an instance of the ap
 # Add your app pages here using .add_page()
 app.add_page("Quick Project Summary", page_summary_body)
 app.add_page("Housing Prices Study", page_housing_prices_study_body)
-app.add_page("Prospect Churnometer", page_prospect_body)
+app.add_page("Predicted House Value", page_predicted_house_value_body)
 app.add_page("Project Hypothesis and Validation", page_project_hypothesis_body)
 app.add_page("ML: Prospect Tenure", page_predict_tenure_body)
 
