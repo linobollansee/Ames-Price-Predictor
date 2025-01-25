@@ -109,7 +109,7 @@ Although your friend has an excellent understanding of property prices in her ow
 8. Set the Build Command: `pip install -r requirements.txt && ./setup.sh`
 9. Set the Start Command: `streamlit run app.py`
 10. Set Instance Type: Free
-11. Set the Environment Variables: `Key: PORT` `Value: 8501` and `Key: PYTHON_VERSION` `Value: 3.11.11`
+11. Set the Environment Variables: `Key: PORT` `Value: 8501` and `Key: PYTHON_VERSION` `Value: 3.12.0`
 12. Click Deploy Web Service
 
 ## Main Data Analysis and Machine Learning Libraries
